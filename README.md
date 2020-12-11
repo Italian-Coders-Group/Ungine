@@ -1,2 +1,2 @@
 # Ungine
-A SDL-based game engine, because why not
+A source-like, DirectX-based, game engine for C#
