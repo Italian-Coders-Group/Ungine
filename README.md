@@ -1,2 +1,2 @@
 # Ungine
-A source-like, DirectX-based, game engine for C#
+A source-like, DirectX-based, game engine for C++
